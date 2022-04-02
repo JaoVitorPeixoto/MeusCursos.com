@@ -14,7 +14,7 @@
 
 1. [Janela_cadastro](https://github.com/JaoVitorPeixoto/MeusCursos.com/blob/main/Arquivos-do-projeto/src/VIEWS/Janela_cadastro.java) além de cadastrar um novo usuário, essa janela também foi utilizada para editar os dados de um usuário que já existe.![image](https://user-images.githubusercontent.com/95388915/161402507-a6531dbf-4bf1-4af2-b2c4-e3600ab7fa0b.png)
 
-1. [Janela_principal](https://github.com/JaoVitorPeixoto/MeusCursos.com/blob/main/Arquivos-do-projeto/src/VIEWS/Janela_principal.form) a janela mostra todos os dados do usuário, os cursos que ele se inscreveu e os cursos disponíveis para o usuário específico(que fez o login), uma vez que o usuário se inscreva em um curso, não poderá se inscrever no mesmo novamente.![image](https://user-images.githubusercontent.com/95388915/161402785-69a61aae-6734-4bd4-99df-61520f2a7f20.png)
+1. [Janela_principal](https://github.com/JaoVitorPeixoto/MeusCursos.com/blob/main/Arquivos-do-projeto/src/VIEWS/Janela_principal.form) a janela mostra todos os dados do usuário, os cursos que ele se inscreveu e os cursos disponíveis para o usuário em específico(que fez o login), uma vez que o usuário se inscreva em um curso, não poderá se inscrever no mesmo novamente.![image](https://user-images.githubusercontent.com/95388915/161402785-69a61aae-6734-4bd4-99df-61520f2a7f20.png)
 
 
 
