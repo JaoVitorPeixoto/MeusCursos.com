@@ -5,7 +5,8 @@
 
 * Utilizando do **_Java swing_** e do banco de dados **_MySQL_**, criei esse projeto com intuito de práticar a conexão do **_Java_** com **_MySQL_** e as janelas do **_Java swing_**. Nesse projeto, o usuário poderá efetuar um login ou cadastro, e será capaz de escolher cursos para inscrever-se.
 
-* Clique [aqui](https://github.com/JaoVitorPeixoto/MeusCursos.com/tree/main/Arquivos-do-projeto/src) para ir na pasta __src__, pasta principal do projeto.
+   * Clique [aqui](https://github.com/JaoVitorPeixoto/MeusCursos.com/tree/main/Arquivos-do-projeto/src) para ir na pasta __*"src"*__, pasta principal do projeto.
+   * Clique [aqui](https://github.com/JaoVitorPeixoto/MeusCursos.com/tree/main/Dump_login) para ir ao dump do banco de dados utilizado nesse projeto.
 ---
 
 * Nesse projeto eu criei 3 janelas utilizando o **_swing_** na IDE **_Netbeans_**:
